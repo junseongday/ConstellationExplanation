@@ -13,6 +13,18 @@
 		5BDFE0AF24B526A4007B2E24 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BDFE0AD24B526A4007B2E24 /* Main.storyboard */; };
 		5BDFE0B124B526A5007B2E24 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BDFE0B024B526A5007B2E24 /* Assets.xcassets */; };
 		5BDFE0B424B526A5007B2E24 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BDFE0B224B526A5007B2E24 /* LaunchScreen.storyboard */; };
+		5BDFE0C824B526E3007B2E24 /* rabbit.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BDFE0BC24B526E2007B2E24 /* rabbit.png */; };
+		5BDFE0C924B526E3007B2E24 /* aurora.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5BDFE0BD24B526E2007B2E24 /* aurora.jpeg */; };
+		5BDFE0CA24B526E3007B2E24 /* bear.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BDFE0BE24B526E2007B2E24 /* bear.png */; };
+		5BDFE0CB24B526E3007B2E24 /* horsestar.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BDFE0BF24B526E2007B2E24 /* horsestar.png */; };
+		5BDFE0CC24B526E3007B2E24 /* rabbitstar.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BDFE0C024B526E2007B2E24 /* rabbitstar.png */; };
+		5BDFE0CD24B526E3007B2E24 /* dogstar.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BDFE0C124B526E2007B2E24 /* dogstar.png */; };
+		5BDFE0CE24B526E3007B2E24 /* eagle.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BDFE0C224B526E2007B2E24 /* eagle.png */; };
+		5BDFE0CF24B526E3007B2E24 /* horse.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BDFE0C324B526E2007B2E24 /* horse.png */; };
+		5BDFE0D024B526E3007B2E24 /* eaglestar.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BDFE0C424B526E2007B2E24 /* eaglestar.png */; };
+		5BDFE0D124B526E3007B2E24 /* dog.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BDFE0C524B526E2007B2E24 /* dog.png */; };
+		5BDFE0D224B526E3007B2E24 /* constellation.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5BDFE0C624B526E3007B2E24 /* constellation.jpeg */; };
+		5BDFE0D324B526E3007B2E24 /* bearstar.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BDFE0C724B526E3007B2E24 /* bearstar.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +36,18 @@
 		5BDFE0B024B526A5007B2E24 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5BDFE0B324B526A5007B2E24 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5BDFE0B524B526A5007B2E24 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5BDFE0BC24B526E2007B2E24 /* rabbit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rabbit.png; sourceTree = "<group>"; };
+		5BDFE0BD24B526E2007B2E24 /* aurora.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aurora.jpeg; sourceTree = "<group>"; };
+		5BDFE0BE24B526E2007B2E24 /* bear.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bear.png; sourceTree = "<group>"; };
+		5BDFE0BF24B526E2007B2E24 /* horsestar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = horsestar.png; sourceTree = "<group>"; };
+		5BDFE0C024B526E2007B2E24 /* rabbitstar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rabbitstar.png; sourceTree = "<group>"; };
+		5BDFE0C124B526E2007B2E24 /* dogstar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dogstar.png; sourceTree = "<group>"; };
+		5BDFE0C224B526E2007B2E24 /* eagle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = eagle.png; sourceTree = "<group>"; };
+		5BDFE0C324B526E2007B2E24 /* horse.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = horse.png; sourceTree = "<group>"; };
+		5BDFE0C424B526E2007B2E24 /* eaglestar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = eaglestar.png; sourceTree = "<group>"; };
+		5BDFE0C524B526E2007B2E24 /* dog.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dog.png; sourceTree = "<group>"; };
+		5BDFE0C624B526E3007B2E24 /* constellation.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = constellation.jpeg; sourceTree = "<group>"; };
+		5BDFE0C724B526E3007B2E24 /* bearstar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bearstar.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +80,7 @@
 		5BDFE0A624B526A4007B2E24 /* ConstellationExplanation */ = {
 			isa = PBXGroup;
 			children = (
+				5BDFE0BB24B526B8007B2E24 /* Resource */,
 				5BDFE0A724B526A4007B2E24 /* AppDelegate.swift */,
 				5BDFE0A924B526A4007B2E24 /* SceneDelegate.swift */,
 				5BDFE0AB24B526A4007B2E24 /* ViewController.swift */,
@@ -65,6 +90,25 @@
 				5BDFE0B524B526A5007B2E24 /* Info.plist */,
 			);
 			path = ConstellationExplanation;
+			sourceTree = "<group>";
+		};
+		5BDFE0BB24B526B8007B2E24 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				5BDFE0BD24B526E2007B2E24 /* aurora.jpeg */,
+				5BDFE0BE24B526E2007B2E24 /* bear.png */,
+				5BDFE0C724B526E3007B2E24 /* bearstar.png */,
+				5BDFE0C624B526E3007B2E24 /* constellation.jpeg */,
+				5BDFE0C524B526E2007B2E24 /* dog.png */,
+				5BDFE0C124B526E2007B2E24 /* dogstar.png */,
+				5BDFE0C224B526E2007B2E24 /* eagle.png */,
+				5BDFE0C424B526E2007B2E24 /* eaglestar.png */,
+				5BDFE0C324B526E2007B2E24 /* horse.png */,
+				5BDFE0BF24B526E2007B2E24 /* horsestar.png */,
+				5BDFE0BC24B526E2007B2E24 /* rabbit.png */,
+				5BDFE0C024B526E2007B2E24 /* rabbitstar.png */,
+			);
+			path = Resource;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,8 +170,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				5BDFE0B424B526A5007B2E24 /* LaunchScreen.storyboard in Resources */,
+				5BDFE0CD24B526E3007B2E24 /* dogstar.png in Resources */,
+				5BDFE0CE24B526E3007B2E24 /* eagle.png in Resources */,
+				5BDFE0C924B526E3007B2E24 /* aurora.jpeg in Resources */,
+				5BDFE0CB24B526E3007B2E24 /* horsestar.png in Resources */,
+				5BDFE0C824B526E3007B2E24 /* rabbit.png in Resources */,
+				5BDFE0D324B526E3007B2E24 /* bearstar.png in Resources */,
+				5BDFE0CF24B526E3007B2E24 /* horse.png in Resources */,
+				5BDFE0D224B526E3007B2E24 /* constellation.jpeg in Resources */,
 				5BDFE0B124B526A5007B2E24 /* Assets.xcassets in Resources */,
+				5BDFE0D124B526E3007B2E24 /* dog.png in Resources */,
+				5BDFE0D024B526E3007B2E24 /* eaglestar.png in Resources */,
 				5BDFE0AF24B526A4007B2E24 /* Main.storyboard in Resources */,
+				5BDFE0CA24B526E3007B2E24 /* bear.png in Resources */,
+				5BDFE0CC24B526E3007B2E24 /* rabbitstar.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
